@@ -1,0 +1,25 @@
+body {
+
+  background-color: linen;
+  
+}
+
+.info {
+
+  font-family: courier;
+  font-size: 12px;
+  text-align: center;
+
+}
+
+#indev {
+
+  font-family: courier;
+  font-size: 10px;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  opacity: 0.6;
+  font-style: italic;
+
+}
