@@ -1,25 +1,26 @@
 body {
 
-  background-color: linen;
-  
-}
-
-.info {
-
-  font-family: courier;
-  font-size: 12px;
-  text-align: center;
+  background-image: linear-gradient(#b3d1ff, #66a3ff);
+  background-attachment: fixed;
 
 }
 
-#indev {
+.about_cloud {
 
-  font-family: courier;
-  font-size: 10px;
-  text-align: center;
-  margin-top: 30px;
-  margin-bottom: 30px;
-  opacity: 0.6;
-  font-style: italic;
+  background: url("./images/about_cloud_a.png");
+  width: 252px;
+  height: 114px;
+
+  position: fixed;
+  bottom: 50%;
+  right: 75%;
 
 }
+
+
+.about_cloud:hover {
+
+  background: url("./images/about_cloud_b.png");
+
+}
+
