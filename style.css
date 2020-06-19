@@ -17,10 +17,63 @@ body {
 
 }
 
-
 .about_cloud:hover {
 
   background: url("./images/about_cloud_b.png");
+
+}
+
+.blog_cloud {
+
+  background: url("./images/blog_cloud_a.png");
+  width: 252px;
+  height: 114px;
+
+  position: fixed;
+  bottom: 25%;
+  right: 30%;
+
+}
+
+.blog_cloud:hover {
+
+  background: url("./images/blog_cloud_b.png");
+
+}
+
+.contact_cloud {
+
+  background: url("./images/contact_cloud_a.png");
+  width: 252px;
+  height: 114px;
+
+  position: fixed;
+  bottom: 10%;
+  right: 70%;
+
+}
+
+.contact_cloud:hover {
+
+  background: url("./images/contact_cloud_b.png");
+
+}
+
+.links_cloud {
+
+  background: url("./images/links_cloud_a.png");
+  width: 252px;
+  height: 114px;
+
+  position: fixed;
+  bottom: 70%;
+  right: 20%;
+
+}
+
+.links_cloud:hover {
+
+  background: url("./images/links_cloud_b.png");
 
 }
 
