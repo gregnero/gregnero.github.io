@@ -59,9 +59,9 @@ body {
 
 }
 
-.links_cloud {
+.cv_cloud {
 
-  background: url("./images/links_cloud_a.png");
+  background: url("./images/cv_cloud_a.png");
   width: 252px;
   height: 114px;
 
@@ -71,9 +71,9 @@ body {
 
 }
 
-.links_cloud:hover {
+.cv_cloud:hover {
 
-  background: url("./images/links_cloud_b.png");
+  background: url("./images/cv_cloud_b.png");
 
 }
 
