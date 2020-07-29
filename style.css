@@ -7,7 +7,7 @@ body {
 
 .about_cloud {
 
-  background: url("./images/about_cloud.png");
+  background: url("./images/about_cloud.png") 0 -114px;
   width: 252px;
   height: 114px;
 
@@ -19,13 +19,13 @@ body {
 
 .about_cloud:hover {
 
-  background: url("./images/about_cloud.png") 0 -114px;
+  background: url("./images/about_cloud.png") 0 0;
 
 }
 
 .blog_cloud {
 
-  background: url("./images/blog_cloud.png");
+  background: url("./images/blog_cloud.png") 0 -114px;
   width: 252px;
   height: 114px;
 
@@ -37,13 +37,13 @@ body {
 
 .blog_cloud:hover {
 
-  background: url("./images/blog_cloud.png") 0 -114px;
+  background: url("./images/blog_cloud.png") 0 0;
 
 }
 
 .contact_cloud {
 
-  background: url("./images/contact_cloud.png");
+  background: url("./images/contact_cloud.png") 0 -114px;
   width: 252px;
   height: 114px;
 
@@ -55,13 +55,13 @@ body {
 
 .contact_cloud:hover {
 
-  background: url("./images/contact_cloud.png") 0 -114px;
+  background: url("./images/contact_cloud.png") 0 0;
 
 }
 
 .cv_cloud {
 
-  background: url("./images/cv_cloud.png");
+  background: url("./images/cv_cloud.png") 0 -114px;
   width: 252px;
   height: 114px;
 
@@ -73,6 +73,6 @@ body {
 
 .cv_cloud:hover {
 
-  background: url("./images/cv_cloud.png") 0 -114px;
+  background: url("./images/cv_cloud.png") 0 0;
 
 }
